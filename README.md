@@ -1,51 +1,47 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Giro da Chave: A Jornada de Transformação de um Jovem Determinado
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta um eBook inspirador contando a jornada de um jovem comum que, desacreditado por muitos sobre o próprio futuro, decide “girar a chave” e transformar completamente sua vida.  
+A história retrata sua evolução pessoal, emocional e profissional — desde uma realidade simples e sem direção até a construção de um negócio inovador e uma vida plena.
+
+Para complementar a narrativa, o projeto também inclui uma imagem de **antes e depois** criada com IA generativa, representando visualmente essa transformação.
+
+O objetivo é demonstrar como as IAs Generativas podem ser usadas para criar conteúdos realistas, profundos e motivadores.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT** – Criação da narrativa completa, refinamento da história e estruturação do eBook  
+- **Leonardo AI** – Geração da imagem realista de “antes e depois” do protagonista  
+- **Markdown (.md)** – Organização final do eBook em formato limpo e profissional  
+- **GitHub** – Hospedagem e disponibilização pública do projeto  
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Concepção da ideia:**  
+   - Defini a proposta: criar a jornada de transformação de um jovem, simulando uma história realista e emocional.
+
+2. **Criação do eBook:**  
+   - Usei o ChatGPT para desenvolver cada capítulo, aprofundar o personagem, incluir cenas de superação e estruturar o material em formato de eBook.  
+   - O conteúdo final foi convertido para Markdown e adicionado ao repositório.
+
+3. **Geração da imagem “Antes e Depois”:**  
+   - A imagem do ator/protagonista da história em dois momentos da vida foi criada com Leonardo AI usando prompts detalhados que buscavam realismo, coerência e continuidade visual.
+     
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **📘 eBook completo:**  
+  Uma narrativa motivadora sobre como um jovem desmotivado deu a volta por cima e encontrou seu caminho.  
+  👉 *[Acessar eBook aqui](https://github.com/LazaroKy/lab-natty-or-not/blob/main/ebook/O_GIRO_DA_CHAVE_E_TRANSFORMA%C3%87%C3%83O_NA_VIDA.md)*
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- **🖼️ Imagem Antes e Depois:**  
+  Representação visual da transformação descrita no eBook.  
+  👉 *[Ver imagem](https://github.com/LazaroKy/lab-natty-or-not/blob/main/capa_ebook_antes_x_depois.jpg)*
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+Criar algo “natty” usando IA é meio difícil. Embora a IA gere conteúdo poderoso, o que garante qualidade e coêrencia é a forma que as instruções são dadas para direcionar a criação. Restringindo ou dando liberdade e delimitando ou afirmando com intenção, buscando escolhas mais criativas. Esse projeto reforçou como as IAs podem ser ferramentas incríveis para dar vida a histórias, transformar ideias e impulsionar a criatividade.
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
